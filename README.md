@@ -1,8 +1,6 @@
-Hi, I'm May Phoo Paing
+# May Phoo Paing
+### Computer Science Student | Aspiring software Developer
 
-Computer Science Student
-Aspiring Software Devloper
-Currently learning and improving my programming skills
 
 About Me
 
